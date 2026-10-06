@@ -1,0 +1,21 @@
+packages/alchemy-test/src/Registry.ts
+  s_57e3e4cdaa782c::t_340675bbcc41ac 5-11,13,23-30,32-35,38-40,42-54,58,77
+packages/alchemy-test/src/Runner.ts
+  s_57e3e4cdaa782c::t_2c0b64d7b9ffba 273
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "fe07bfcf09f85f68553d704e3f1cd7d5291e0d0b",
+  "prompts": {},
+  "sessions": {
+    "s_57e3e4cdaa782c": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "96fa8e5d-ad52-4035-8b0d-a59e1f9c035d",
+        "model": "claude-sonnet-5-5"
+      },
+      "human_author": "Arth Tyagi <onarth@icloud.com>"
+    }
+  }
+}
