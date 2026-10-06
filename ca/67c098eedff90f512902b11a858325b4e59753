@@ -1,0 +1,29 @@
+packages/alchemy/src/AWS/Budgets/Budget.ts
+  s_c99656ff2ec72b::t_f9f14263ccf87f 56-123,164-169,239-246,273-286,318
+packages/alchemy/test/AWS/Budgets/Budget.test.ts
+  s_fc231bf07889a1::t_cb97d15d804f0c 7,72,80,103,113,126-139,162,168,174-175,188-198
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "ca67c098eedff90f512902b11a858325b4e59753",
+  "prompts": {},
+  "sessions": {
+    "s_c99656ff2ec72b": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "413cd13a-69d9-4c67-a5fc-683e57538cdb",
+        "model": "claude-sonnet-5-5"
+      },
+      "human_author": "Arth Tyagi <onarth@icloud.com>"
+    },
+    "s_fc231bf07889a1": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a111bf-7b90-7270-b727-a9161b009d0b",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "Arth Tyagi <onarth@icloud.com>"
+    }
+  }
+}
