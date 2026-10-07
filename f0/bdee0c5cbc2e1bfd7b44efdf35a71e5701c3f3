@@ -1,0 +1,29 @@
+packages/alchemy/src/Cli/commands/flags.ts
+  s_a5707d721b1d0d::t_b72f6e58fdf421 2,9,82-103
+packages/alchemy/test/Cli/StageEnvironment.test.ts
+  s_2fc50df728ef12::t_7583af05979f2a 9,169-206
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "f0bdee0c5cbc2e1bfd7b44efdf35a71e5701c3f3",
+  "prompts": {},
+  "sessions": {
+    "s_2fc50df728ef12": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1156e-947e-7bb2-bf2d-ba75ad5521c4",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "Arth Tyagi <onarth@icloud.com>"
+    },
+    "s_a5707d721b1d0d": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "a08aee73-8a82-4baf-b9ed-cad11cc2646b",
+        "model": "unknown"
+      },
+      "human_author": "Arth Tyagi <onarth@icloud.com>"
+    }
+  }
+}
